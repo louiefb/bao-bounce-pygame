@@ -37,4 +37,4 @@ Everything in the game is done in a very Pythonic way, with gravity, momentum, a
 
 Progress
 --------
-Right now, the game is built with rects in place of actual sprites. But the skeleton is pretty much done so far. The next fun part is the incorporate a graphical theme and the game art. Next steps will also include user interaction including the Title Screen and how an end user will be able to customize the game through the game and not through the script.
+Actual sprites have been implemented. Next steps: user interaction including the Title Screen and how an end user will be able to customize the game through the game and not through the script.
